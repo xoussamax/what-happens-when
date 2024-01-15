@@ -689,6 +689,35 @@ the Google homepage. Scripts can cause additional network requests to be
 performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
 
+
+Cookies and Sessions Handling:
+-----------------------------
+Explain how browsers handle cookies, including the storage, retrieval, and expiration of cookies.
+Describe how sessions are managed by web applications and the role of session cookies.
+Caching Mechanism:
+
+Detail how browsers use caching to store copies of resources locally for faster page loading.
+Explain the various types of caching, including browser cache, proxy cache, and server-side caching.
+Security Measures:
+
+Discuss security measures such as Content Security Policy (CSP) and Same-Origin Policy.
+Explain how browsers handle secure connections, HTTPS, and SSL/TLS certificates.
+WebSockets and AJAX:
+
+Briefly describe how WebSockets enable bidirectional communication between the browser and the server.
+Discuss AJAX (Asynchronous JavaScript and XML) and how it facilitates asynchronous data retrieval without reloading the entire page.
+Web Storage:
+
+Explain the difference between local storage and session storage.
+Discuss how web storage is utilized by web applications for client-side data storage.
+Browser Developer Tools:
+
+Mention the availability and importance of browser developer tools for debugging and profiling web applications.
+Briefly explain commonly used features in developer tools such as the Elements panel, Console, and Network tab.
+WebAssembly (Wasm):
+
+Introduce WebAssembly and its role in enhancing browser performance by allowing code execution at near-native speed.
+
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
 .. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
 .. _`Punycode`: https://en.wikipedia.org/wiki/Punycode
